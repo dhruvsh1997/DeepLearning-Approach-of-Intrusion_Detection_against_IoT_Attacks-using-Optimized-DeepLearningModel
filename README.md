@@ -1,0 +1,2 @@
+# DeepLearning-Approach-of-Intrusion_Detection_against_IoT_Attacks-using-Optimized-DeepLearningModel
+Implementation is enhancing security against cyberattacks by utilizing hybrid optimization (ABC+SCA) to optimize a CNLSTM neural network for intrusion detection. Strengthen IoT device protection and address the increasing sophistication of cyber threats. Dynamic LoadBalancing Algo is using Q-learning, &amp; DL models aid in identifying attacks.
